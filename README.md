@@ -2,6 +2,11 @@
 
 Welcome to the **AI Innovator** repository! This repository features a collection of beginner-friendly data science projects that showcase rich visualizations, perfect for learning and exploring the fascinating world of data science. Each project is designed to help you understand key data science concepts and gain hands-on experience with data visualization techniques using Python.
 
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:238/1*4VyR0PGZMswEqmPsDJSh0g.png" alt="OLifie Logo" width="300px">
+</p>
+
+
 ## Table of Contents
 
 1. [Global CO2 Emissions Visualization](#1-global-co2-emissions-visualization)
